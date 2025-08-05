@@ -1,0 +1,3 @@
+Name: Ethamsetti Swathi
+course : Data science
+The thing that I have learnt about GitHub is how to create repositories.
